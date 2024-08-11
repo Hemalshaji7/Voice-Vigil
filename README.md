@@ -24,7 +24,7 @@ With the increasing use of artificial intelligence and deep learning techniques,
 1. Upload an audio file to check whether it is real or fake.
 2. The result will be displayed on the web page.
 ### Home Page
-![Home Page](https://github.com/Hemalshaji7/Voice-Vigil/blob/main/voicevigil%20home.png)
+![Home Page](https://github.com/Hemalshaji7/Voice-Vigil/blob/main/voicevigilhome.png)
 
 ### Detection Page
 
