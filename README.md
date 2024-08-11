@@ -30,7 +30,7 @@ With the increasing use of artificial intelligence and deep learning techniques,
 
 ### Detection Page
 
-![Detection page](https://github.com/Hemalshaji7/Voice-Vigil/blob/main/voicevigil%20real.png)
+![Detection page](https://github.com/Hemalshaji7/Voice-Vigil/blob/main/voicevigildet.png).
 
 
 ## Importance and Advantages
