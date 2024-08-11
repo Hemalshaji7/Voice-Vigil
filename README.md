@@ -24,10 +24,15 @@ With the increasing use of artificial intelligence and deep learning techniques,
 1. Upload an audio file to check whether it is real or fake.
 2. The result will be displayed on the web page.
 ### Home Page
-![Home Page](./assets/homepage.png) 
+![Home Page](./assets/homepage.png)
 
 ### Detection Page
-![Detection Page](./assets/detectionpage.png) 
+
+#### Detecting Real Audio
+![Detecting Real Audio](./assets/detecting_real_audio.png)
+
+#### Detecting Fake Audio
+![Detecting Fake Audio](./assets/detecting_fake_audio.png)
 
 ## Importance and Advantages
 
